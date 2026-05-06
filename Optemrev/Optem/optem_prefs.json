@@ -1,0 +1,9 @@
+{
+  "accent": "#3498DB",
+  "dark_mode": false,
+  "font_size": "Grande",
+  "anim": true,
+  "transparent_btns": true,
+  "keyboard_nav": false,
+  "voice_cmd": true
+}
