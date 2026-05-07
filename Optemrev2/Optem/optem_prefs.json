@@ -1,0 +1,10 @@
+{
+  "accent": "#1ABC9C",
+  "dark_mode": false,
+  "font_size": "Normal",
+  "anim": true,
+  "transparent_btns": false,
+  "keyboard_nav": false,
+  "voice_cmd": true,
+  "screen_reader": false
+}
