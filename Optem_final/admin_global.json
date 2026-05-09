@@ -1,0 +1,122 @@
+[
+  {
+    "id": 10001,
+    "titulo": "Tarea: Análisis de sistemas — Ejercicios cap. 3",
+    "categoria": "📚 Tarea",
+    "fecha": "2026-05-07",
+    "hora_inicio": "09:00",
+    "hora_fin": "10:00",
+    "desc": "Resolver los ejercicios 1-5 del capítulo 3 del libro de Sistemas. Mostrar procedimiento completo.",
+    "prioridad": 2
+  },
+  {
+    "id": 10002,
+    "titulo": "Examen parcial — Cálculo Diferencial",
+    "categoria": "📝 Examen",
+    "fecha": "2026-05-10",
+    "hora_inicio": "10:00",
+    "hora_fin": "12:00",
+    "desc": "Temas: límites, derivadas, regla de la cadena y optimización. Traer calculadora científica. No se permiten apuntes.",
+    "prioridad": 1
+  },
+  {
+    "id": 10003,
+    "titulo": "Entrega: Proyecto final — Programación Web",
+    "categoria": "📋 Proyecto",
+    "fecha": "2026-05-15",
+    "hora_inicio": "08:00",
+    "hora_fin": "23:59",
+    "desc": "Entrega del repositorio en GitHub + presentación de 15 min. Equipos de 3 personas. Incluir documentación.",
+    "prioridad": 1
+  },
+  {
+    "id": 10004,
+    "titulo": "Práctica de laboratorio — Química Orgánica",
+    "categoria": "🧪 Práctica",
+    "fecha": "2026-05-08",
+    "hora_inicio": "14:00",
+    "hora_fin": "16:00",
+    "desc": "Práctica 4: Síntesis de compuestos orgánicos. Obligatorio: bata, guantes y gafas de seguridad.",
+    "prioridad": 2
+  },
+  {
+    "id": 10005,
+    "titulo": "📢 Aviso: Semana de registro de materias",
+    "categoria": "📢 Aviso",
+    "fecha": "2026-05-06",
+    "hora_inicio": "00:00",
+    "hora_fin": "23:59",
+    "desc": "El registro de materias para el siguiente semestre inicia esta semana. Revisar horarios en el portal UAEMéx.",
+    "prioridad": 3
+  },
+  {
+    "id": 10006,
+    "titulo": "Evento: Expo Ingeniería UAEMéx 2025",
+    "categoria": "🎓 Evento",
+    "fecha": "2026-05-19",
+    "hora_inicio": "10:00",
+    "hora_fin": "18:00",
+    "desc": "Feria de proyectos estudiantiles. Entrada libre, pabellón central. ¡Inscribe tu proyecto antes del viernes!",
+    "prioridad": 4
+  },
+  {
+    "id": 10007,
+    "titulo": "Tarea: Ensayo — Ética en Ingeniería",
+    "categoria": "📚 Tarea",
+    "fecha": "2026-05-09",
+    "hora_inicio": "23:59",
+    "hora_fin": "23:59",
+    "desc": "Ensayo de 5 cuartillas sobre dilemas éticos en el desarrollo tecnológico. Formato APA. Entregar vía Moodle.",
+    "prioridad": 2
+  },
+  {
+    "id": 10008,
+    "titulo": "Examen: Física II — Parcial 2",
+    "categoria": "📝 Examen",
+    "fecha": "2026-05-12",
+    "hora_inicio": "08:00",
+    "hora_fin": "10:00",
+    "desc": "Temas: Electromagnetismo, circuitos RC, ley de Faraday. Permitido: calculadora y formulario de 1 hoja.",
+    "prioridad": 1
+  },
+  {
+    "id": 10009,
+    "titulo": "Proyecto: Avance 2 — App Móvil (equipo)",
+    "categoria": "📋 Proyecto",
+    "fecha": "2026-05-11",
+    "hora_inicio": "09:00",
+    "hora_fin": "11:00",
+    "desc": "Presentar prototipo funcional en Flutter/React Native. Evaluación por el profesor. Llevar laptop.",
+    "prioridad": 1
+  },
+  {
+    "id": 10010,
+    "titulo": "🎓 Conferencia: IA aplicada a la Ingeniería",
+    "categoria": "🎓 Evento",
+    "fecha": "2026-05-13",
+    "hora_inicio": "16:00",
+    "hora_fin": "18:00",
+    "desc": "Ponencia del Dr. Martínez sobre aplicaciones de IA en ingeniería civil y mecánica. Auditorio principal, cupo limitado.",
+    "prioridad": 4
+  },
+  {
+    "id": 10011,
+    "titulo": "Práctica: Redes y Comunicaciones — Lab",
+    "categoria": "🧪 Práctica",
+    "fecha": "2026-05-14",
+    "hora_inicio": "12:00",
+    "hora_fin": "14:00",
+    "desc": "Configuración de routers y switches en Cisco Packet Tracer. Llevar archivo de la práctica anterior.",
+    "prioridad": 2
+  },
+  {
+    "id": 10012,
+    "titulo": "📢 Aviso: Entrega de constancias — Ventanilla",
+    "categoria": "📢 Aviso",
+    "fecha": "2026-05-05",
+    "hora_inicio": "09:00",
+    "hora_fin": "14:00",
+    "desc": "Entrega de constancias de estudio en ventanilla escolar. Traer credencial vigente y 2 copias.",
+    "prioridad": 3
+  }
+]

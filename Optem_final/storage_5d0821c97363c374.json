@@ -1,0 +1,17 @@
+{
+    "perfil": {
+        "nombre": "",
+        "racha": 0,
+        "xp": 0,
+        "nivel": "Novato",
+        "numero_cuenta": ""
+    },
+    "config": {
+        "estilo": "cristal",
+        "dark_mode": true,
+        "voz_activa": false
+    },
+    "materias": {},
+    "agenda": [],
+    "ultima_sincronizacion": "2026-05-09 16:25:27.242769"
+}
