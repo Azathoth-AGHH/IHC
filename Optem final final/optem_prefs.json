@@ -1,0 +1,11 @@
+{
+  "accent": "#5A8F76",
+  "dark_mode": false,
+  "font_size": "Normal",
+  "anim": true,
+  "transparent_btns": false,
+  "keyboard_nav": false,
+  "voice_cmd": false,
+  "screen_reader": false,
+  "reinscripcion_activa": false
+}
