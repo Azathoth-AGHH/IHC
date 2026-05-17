@@ -1,0 +1,20 @@
+[
+  {
+    "correo": "jfonsecal001@alumno.uaemex.mx",
+    "num_cuenta": "2113911",
+    "nombre": "Jose Antonio Fonseca",
+    "tipo": "estudiante"
+  },
+  {
+    "correo": "ahernandezh058@alumno.uaemex.mx",
+    "num_cuenta": "2114001",
+    "nombre": "A. Hernandez",
+    "tipo": "estudiante"
+  },
+  {
+    "correo": "fmartinezc017@alumno.uaemex.mx",
+    "num_cuenta": "2113220",
+    "nombre": "F. Martinez",
+    "tipo": "estudiante"
+  }
+]
